@@ -2,6 +2,20 @@
 
 <h3 align="center">🚀 Full Stack Developer </h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/your-username">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"/>
+  </a>
+
+  <a href="https://github.com/your-username">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50"/>
+  </a>
+
+  <a href="https://instagram.com/your-username">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
