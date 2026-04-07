@@ -35,7 +35,7 @@
 
   <li>💻 <b>Tech Expertise:</b> Specialized in MERN Stack (React, Node.js, MongoDB), and Python.</li>
 
-  <li>🤝 <b>Collaboration:</b> Open to working on exciting projects and startups.</li>
+  <li>👯 <b>Collaboration:</b> Open to working on exciting projects and startups.</li>
 
   <li>💬 <b>Ask me about:</b> Full Stack Development, React, Backend, and System Design.</li>
 
@@ -45,8 +45,6 @@
 ---
 
 <h2>🛠️ Tech Stack</h2>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
