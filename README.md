@@ -4,7 +4,13 @@
 
 ---
 
-🧑‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
 
 - 🎓 MCA Student at Savitribai Phule Pune University  
 - 💻 Passionate Full Stack Developer  
