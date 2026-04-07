@@ -3,15 +3,15 @@
 <h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="center">
-  <a href="https://x.com/prathmesh_sahu_" target="_blank">
+  <a href="https://x.com/prathmesh_sahu_" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/prathmesh-sahu-7139692ba/" target="_blank">
+  <a href="https://www.linkedin.com/in/prathmesh-sahu-7139692ba/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/_prathmesh_sahu_/" target="_blank">
+  <a href="https://www.instagram.com/_prathmesh_sahu_/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
