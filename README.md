@@ -29,11 +29,11 @@
 <td width="60%">
 
 <ul>
-  <li>🚀 <b>Founder of Magic Menu:</b> Scaling a food delivery startup and expanding ecosystem.</li>
+  <li>🚀 <b>Working on:</b> Scalable web apps like Poona Bazaar(E-Commerce Platform) and Flight Ticket Booking.</li>
 
-  <li>🎓 <b>Education:</b> Currently in MCA (4th Semester), focusing on high-performance architectures.</li>
+  <li>🎓 <b>Education:</b> Currently pursuing MCA (Master of Computer Applications) at Dr. D. Y. Patil Institute, Pune.</li>
 
-  <li>💻 <b>Tech Expertise:</b> Specialized in MERN Stack(React, Node.js, MongoDB), and Python.</li>
+  <li>💻 <b>Tech Expertise:</b> Specialized in MERN Stack (React, Node.js, MongoDB), and Python.</li>
 
   <li>🤝 <b>Collaboration:</b> Open to working on exciting projects and startups.</li>
 
@@ -51,7 +51,7 @@
 </td>
 </tr>
 </table>
----
+
 
 <h2>🛠️ Tech Stack</h2>
 
