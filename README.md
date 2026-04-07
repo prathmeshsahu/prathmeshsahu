@@ -22,14 +22,35 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2>🚀 About Me</h2>
 
-- 🎓 MCA Student at Savitribai Phule Pune University  
-- 💻 Passionate Full Stack Developer  
-- 🚀 Working on real-world MERN stack projects  
-- 📚 Currently learning Data Structures & Algorithms  
-- 🎯 Goal: Become a top software engineer  
+<table>
+<tr>
+<td width="60%">
 
+<ul>
+  <li>🚀 <b>Founder of Magic Menu:</b> Scaling a food delivery startup and expanding ecosystem.</li>
+
+  <li>🎓 <b>Education:</b> Currently in MCA (4th Semester), focusing on high-performance architectures.</li>
+
+  <li>💻 <b>Tech Expertise:</b> MERN Stack (React, Node.js, MongoDB).</li>
+
+  <li>🤝 <b>Collaboration:</b> Open to working on exciting projects and startups.</li>
+
+  <li>💬 <b>Ask me about:</b> Full Stack Development, React, Backend, and System Design.</li>
+
+  <li>📫 <b>Reach me:</b> your-email@gmail.com</li>
+</ul>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 ---
 
 <h2>🛠️ Tech Stack</h2>
