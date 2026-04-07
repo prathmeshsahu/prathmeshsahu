@@ -23,6 +23,9 @@
 ---
 
 <h2>🚀 About Me</h2>
+
+---
+
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260"/>
 
 <ul>
@@ -39,6 +42,7 @@
   <li>📫 <b>Reach me:</b> prathmeshsahu95@gmail.com</li>
 </ul>
 
+---
 
 <h2>🛠️ Tech Stack</h2>
 
