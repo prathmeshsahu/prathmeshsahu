@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Sahu</h1>
+---
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | MCA Student</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack |</h3>
 
 ---
 
----
-
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 - 🎓 MCA Student at Savitribai Phule Pune University  
 - 💻 Passionate Full Stack Developer  
