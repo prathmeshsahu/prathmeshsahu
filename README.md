@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Sahu</h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack |</h3>ss
+<h3 align="center">🚀 Full Stack Developer | MERN Stack |</h3>
+
 ---
 
 🧑‍💻 About Me
