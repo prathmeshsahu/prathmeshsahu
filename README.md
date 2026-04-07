@@ -3,16 +3,20 @@
 <h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-username">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"/>
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/your-username">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50"/>
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/your-username">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
+  <a href="https://instagram.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
