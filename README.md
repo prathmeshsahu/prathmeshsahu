@@ -23,7 +23,6 @@
 ---
 
 <h2>🚀 About Me</h2>
-
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260"/>
 
 <ul>
