@@ -33,13 +33,13 @@
 
   <li>🎓 <b>Education:</b> Currently in MCA (4th Semester), focusing on high-performance architectures.</li>
 
-  <li>💻 <b>Tech Expertise:</b> MERN Stack (React, Node.js, MongoDB).</li>
+  <li>💻 <b>Tech Expertise:</b> Specialized in MERN Stack(React, Node.js, MongoDB), and Python.</li>
 
   <li>🤝 <b>Collaboration:</b> Open to working on exciting projects and startups.</li>
 
   <li>💬 <b>Ask me about:</b> Full Stack Development, React, Backend, and System Design.</li>
 
-  <li>📫 <b>Reach me:</b> your-email@gmail.com</li>
+  <li>📫 <b>Reach me:</b> prathmeshsahu95@gmail.com</li>
 </ul>
 
 </td>
