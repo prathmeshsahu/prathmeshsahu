@@ -63,8 +63,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="300"/>
-  <br/>
-  <b>Thanks for visiting! ❤️</b>
-</p>
+<h3 align="center">Thanks for visiting! ❤️</h3>
