@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/banner.png" alt="banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Prathmesh Sahu</h1>
 
 <h3 align="center">🚀 Full Stack Developer </h3>
