@@ -33,7 +33,7 @@
 
   <li>💻 <b>Tech Expertise:</b> Specialized in MERN Stack (React, Node.js, MongoDB), and Python.</li>
 
-  <li>👯 <b>Collaboration:</b> Open to working on exciting projects and startups.</li>
+  <li>👯 <b>Collaboration:</b> Looking to connect with developers passionate about Web Architecture and Open to working on exciting projects and.</li>
 
   <li>💬 <b>Ask me about:</b> Full Stack Development, React, Backend, and System Design.</li>
 
