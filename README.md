@@ -61,6 +61,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F75C7E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+❤️;Have+a+great+day!+✨" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-❤️-ff69b4?style=for-the-badge" />
 </p>
-
