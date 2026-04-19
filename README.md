@@ -30,7 +30,7 @@
 <ul>
   <li>🚀 <b>Working on:</b> Scalable web apps like Poona Bazaar (E-Commerce Platform) and Flight Ticket Booking.</li>
 
-  <li>🎓 <b>Education:</b> Currently pursuing MCA (Master of Computer Applications) at Dr. D. Y. Patil Institute, Pune.</li>
+  <li>🎓 <b>Education:</b> Currently pursuing MCA (Master of Computer Applications) at Dr. D. Y. Patil Institute of Management & Entrepreneur Development,Varale, Talegaon, Pune.</li>
 
   <li>💻 <b>Tech Expertise:</b> Specialized in MERN Stack (React, Node.js, MongoDB), and Python.</li>
 
